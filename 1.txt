@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 teste de alteração
+=======
+teste de alteração
+>>>>>>> 6c452d540ca0668dd45f1981009b1d83c4a37f96
 jfsakjfkasj
